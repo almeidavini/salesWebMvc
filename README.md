@@ -1,6 +1,8 @@
 <h1 align="center">Sale Web MVC</h1>
 
-<img src="#" alt="demonstration"/>
+<h1 align="center">
+  <img src="img/demonstration.gif" alt="demonstration"/>
+</h1>
 
 ## 💻 Projeto
 
